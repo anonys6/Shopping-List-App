@@ -1,21 +1,30 @@
-# czKr2WhM
+# Shopping List App
 
-Quick start:
+This is a simple shopping list application built with HTML, CSS, and JavaScript. It uses Firebase Realtime Database to store the shopping list items.
 
-```
-$ npm install
-$ npm start
-````
+![Shopping List App Screenshot](./assets/screenshot.png)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Live Demo
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+You can access the live demo of the app [here](https://anonys6.github.io/Shopping-List-App/).
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
 
-Happy Coding!
+- Add items to the shopping list.
+- Click on an item to remove it from the list.
+
+## How to Use
+
+1. Enter the name of an item in the input field.
+2. Click the 'Add to cart' button to add the item to the list.
+3. Click on an item in the list to remove it.
+
+## Code Structure
+
+The JavaScript code is structured into functions each performing a specific task. It uses Firebase for storing and retrieving data and manipulates the DOM to update the shopping list.
+
+The HTML and CSS code is structured to create a simple and user-friendly interface.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
