@@ -2,7 +2,7 @@
 
 This is a simple shopping list application built with HTML, CSS, and JavaScript. It uses Firebase Realtime Database to store the shopping list items and Vite for a build tool. The app is also configured as a Progressive Web App (PWA), which means it can be installed on supported devices for offline use.
 
-![Shopping List App Screenshot](./screenshot.png)
+![Shopping List App Screenshot](./assets/screenshot.png)
 
 ## Live Demo
 
